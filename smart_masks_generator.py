@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 smart_masks.py - Genera máscaras inteligentes para hashcat
 """
