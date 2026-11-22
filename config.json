@@ -1,0 +1,14 @@
+{
+  "default_interface": "wlan0",
+  "monitor_suffix": "mon",
+  "timeout": 300,
+  "hashcat_mode": "22000",
+  "wordlist_path": "wordlists/",
+  "results_path": "results/",
+  "enable_pmkid": true,
+  "enable_handshake": true,
+  "enable_wps": false,
+  "max_attempts": 1000000,
+  "gpu_enabled": true,
+  "gpu_devices": [0, 1]
+}
